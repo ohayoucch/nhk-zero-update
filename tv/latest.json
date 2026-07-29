@@ -1,0 +1,11 @@
+{
+  "version": "1.79",
+  "tag": "v1.79",
+  "notes": "内蔵アップデート正式版です。Android TV のインストール許可画面の互換性を改善し、更新画面の英語見出しを削除、ダウンロード進捗表示を修正しました。",
+  "size": 7466685,
+  "sha256": "3f6c1193fa1f921e3f9c36eebd6e31550e29b33285049d698e6f3badb6f6fbec",
+  "downloads": [
+    "https://cdn.jsdelivr.net/gh/ohayoucch/nhk-zero-update@1c6953834c9429e0f6a48fcc2ce191f4dcc55a02/NHK-Zero-v1.79.apk",
+    "https://github.com/ohayoucch/nhk-zero-update/releases/download/v1.79/NHK-Zero-v1.79.apk"
+  ]
+}

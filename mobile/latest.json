@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "tag": "mobile-v1.0.0",
+  "notes": "NHK Zero Mobile の初回正式版です。スマートフォン向け全画面表示、中央ジェスチャー操作、モバイル用 UI スケーリングに対応しました。",
+  "size": 7466681,
+  "sha256": "d0e575880ab34b06c63cd0a4b3ad7ef92b84406da783d17a4ab74d8fe8f47102",
+  "downloads": [
+    "https://cdn.jsdelivr.net/gh/ohayoucch/nhk-zero-update@main/mobile/NHK-Zero-Mobile-v1.0.0.apk",
+    "https://github.com/ohayoucch/nhk-zero-update/releases/download/mobile-v1.0.0/NHK-Zero-Mobile-v1.0.0.apk"
+  ]
+}
