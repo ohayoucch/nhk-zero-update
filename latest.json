@@ -1,11 +1,11 @@
 {
-  "version": "1.76",
-  "tag": "v1.76",
-  "notes": "アプリ内アップデート機能を追加しました。通常画面の「更新」または管内 OSD の「アップデート」から確認できます。",
+  "version": "1.77",
+  "tag": "v1.77",
+  "notes": "スキン表示中のメニューからアップデート項目を削除しました。通常画面の「更新」から引き続き確認できます。",
   "size": 7466685,
-  "sha256": "f8e7d01306e8f283747c12a6e54f936af0d64b8c76f05e057a67eebf41ef915c",
+  "sha256": "baabd333fe633243bb8614e6052bab8747b5c529ff9fd95c0c65ad96b99fd8fc",
   "downloads": [
-    "https://cdn.jsdelivr.net/gh/ohayoucch/nhk-zero-update@v1.76/NHK-Zero-v1.76.apk",
-    "https://github.com/ohayoucch/nhk-zero-update/releases/download/v1.76/NHK-Zero-v1.76.apk"
+    "https://cdn.jsdelivr.net/gh/ohayoucch/nhk-zero-update@v1.77/NHK-Zero-v1.77.apk",
+    "https://github.com/ohayoucch/nhk-zero-update/releases/download/v1.77/NHK-Zero-v1.77.apk"
   ]
 }
