@@ -1,12 +1,11 @@
 {
-  "version": "1.75",
-  "tag": "v1.75",
-  "notes": "NHK Zero 1.75",
-  "size": 7449645,
-  "sha256": "3a62c92ead610cf9660fd12d87b94d8fed636bdd58d886c7e0179b51b4d688ae",
+  "version": "1.76",
+  "tag": "v1.76",
+  "notes": "アプリ内アップデート機能を追加しました。通常画面の「更新」または管内 OSD の「アップデート」から確認できます。",
+  "size": 7466685,
+  "sha256": "f8e7d01306e8f283747c12a6e54f936af0d64b8c76f05e057a67eebf41ef915c",
   "downloads": [
-    "https://cdn.jsdelivr.net/gh/ohayoucch/nhk-zero-update@v1.75/NHK-Zero-v1.75.apk",
-    "https://github.com/ohayoucch/nhk-zero-update/releases/download/v1.75/NHK-Zero-v1.75.apk"
+    "https://cdn.jsdelivr.net/gh/ohayoucch/nhk-zero-update@v1.76/NHK-Zero-v1.76.apk",
+    "https://github.com/ohayoucch/nhk-zero-update/releases/download/v1.76/NHK-Zero-v1.76.apk"
   ]
 }
-
