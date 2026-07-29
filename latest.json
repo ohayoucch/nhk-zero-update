@@ -1,11 +1,11 @@
 {
-  "version": "1.77",
-  "tag": "v1.77",
-  "notes": "スキン表示中のメニューからアップデート項目を削除しました。通常画面の「更新」から引き続き確認できます。",
+  "version": "1.78",
+  "tag": "v1.78",
+  "notes": "Android TV の内蔵アップデートを修正しました。署名確認、重複ダウンロード、インストール許可、更新 APK の自動削除を改善しています。旧更新機能に問題がある端末では初回のみ手動でインストールしてください。",
   "size": 7466685,
-  "sha256": "baabd333fe633243bb8614e6052bab8747b5c529ff9fd95c0c65ad96b99fd8fc",
+  "sha256": "cde5630090965b936582283cc32df510cea63c76c89e6cb6ac8ef206418f71ca",
   "downloads": [
-    "https://cdn.jsdelivr.net/gh/ohayoucch/nhk-zero-update@v1.77/NHK-Zero-v1.77.apk",
-    "https://github.com/ohayoucch/nhk-zero-update/releases/download/v1.77/NHK-Zero-v1.77.apk"
+    "https://cdn.jsdelivr.net/gh/ohayoucch/nhk-zero-update@v1.78/NHK-Zero-v1.78.apk",
+    "https://github.com/ohayoucch/nhk-zero-update/releases/download/v1.78/NHK-Zero-v1.78.apk"
   ]
 }
