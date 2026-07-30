@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "tag": "mobile-v1.0.1",
-  "notes": "16:9 以外のスマートフォンで映像が横方向に引き伸ばされる問題を修正しました。映像・スキン・CRT エフェクトを 16:9 のまま中央表示し、画面外側には黒帯を表示します。",
+  "version": "1.0.2",
+  "tag": "mobile-v1.0.2",
+  "notes": "再生エラー画面に高コントラストのダークパネルと余白を追加し、明るい映像やスキンのカラーバー上でも診断情報と操作ボタンを読みやすくしました。",
   "size": 7466681,
-  "sha256": "a67c5e5ac70661d72fb21673beedfbad43b66dc2d97e159a8a75b48a1d6ce758",
+  "sha256": "72a81807e577e74e5a6869162bdfb09a47d90ad78426a9b996b48251ed03c315",
   "downloads": [
-    "https://cdn.jsdelivr.net/gh/ohayoucch/nhk-zero-update@main/mobile/NHK-Zero-Mobile-v1.0.1.apk",
-    "https://github.com/ohayoucch/nhk-zero-update/releases/download/mobile-v1.0.1/NHK-Zero-Mobile-v1.0.1.apk"
+    "https://cdn.jsdelivr.net/gh/ohayoucch/nhk-zero-update@main/mobile/NHK-Zero-Mobile-v1.0.2.apk",
+    "https://github.com/ohayoucch/nhk-zero-update/releases/download/mobile-v1.0.2/NHK-Zero-Mobile-v1.0.2.apk"
   ]
 }
